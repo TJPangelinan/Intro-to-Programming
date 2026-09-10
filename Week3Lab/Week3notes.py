@@ -29,12 +29,12 @@
 # # user_text=input('type something: ')
 # # print(user_text)
 # # print(type(user_text))
-# # #no matter what the input is, the data tpye of user input is always string
+# # #no matter what the input is, the data the of user input is always string
 
-# # age_text=input('How old are you now? ') #age_text is a string
-# # age_number=int(age_text) #this converts our string variable value into an INT variable
-# # print(age_number,type(age_number))
-# # print(f'Next year you will be {age_number+1}')
+age_text=input('How old are you now? ') #age_text is a string
+age_number=int(age_text) #this converts our string variable value into an INT variable
+print(age_number,type(age_number))
+print(f'Next year you will be {age_number+1}')
 
 
 # #string is what goes between "", String holds no numeric value. Text data
