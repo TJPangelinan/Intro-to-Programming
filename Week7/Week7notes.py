@@ -84,9 +84,9 @@
 #         break
 
 
-#Nested loops
+# Nested loops
 # nested loop is a loop inside another loop
-#outer loop that runs through 1,2,3
+# outer loop that runs through 1,2,3
 # for number in range(1,4):
 #     #inner loop also runs through 1,2,3
 #     for number2 in range(1,4):
@@ -95,9 +95,9 @@
 
 
  
-#choosing the right loop
-#use a while loop when repitition depends on a condition
-#keep looping while answer is not yes
+# choosing the right loop
+# use a while loop when repitition depends on a condition
+# keep looping while answer is not yes
 # answer=input('Enter yes ')
 # while answer !='yes':
 #     #ask the user again
